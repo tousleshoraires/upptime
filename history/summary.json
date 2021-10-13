@@ -22,7 +22,7 @@
     "url": "https://www.horaires-drive.fr/",
     "icon": "https://favicons.githubusercontent.com/www.horaires-drive.fr",
     "slug": "horaires-drive-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 640,
     "timeMonth": 646,
     "timeYear": 640,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 0
+    }
   }
 ]
