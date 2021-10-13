@@ -22,19 +22,19 @@
     "url": "https://www.horaires-drive.fr/",
     "icon": "https://favicons.githubusercontent.com/www.horaires-drive.fr",
     "slug": "horaires-drive-fr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 640,
-    "timeDay": 794,
-    "timeWeek": 640,
-    "timeMonth": 646,
-    "timeYear": 640,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "95.44%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.87%",
+    "time": 641,
+    "timeDay": 741,
+    "timeWeek": 646,
+    "timeMonth": 648,
+    "timeYear": 641,
     "dailyMinutesDown": {
-      "2021-10-13": 0
+      "2021-10-13": 66
     }
   }
 ]
